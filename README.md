@@ -1,4 +1,11 @@
 # Botani Classify
+## Developers
+|Username|position|photos number|
+|---|---|---|
+|[citrus-mizuha](https://github.com/citrus-mizuha)|Administor|none|
+|[kaho7090](https://github.com/kaho7090)|main developer|none|
+|[]()|photo credit|none|
+|[]()|photo credit|none|
 ## Information
 ### About
 - This classification AI is created according to the APG classification system.
@@ -40,4 +47,5 @@ If you want to use any options. please look at [here](/memo/livecam-help.txt)
 
 The Android version is scheduled to be released soon, but the iPhone version is not yet known.
 
-## 
+## Special Thanks
+[kaho7090](https://github.com/kaho7090) Thank you very much!!
