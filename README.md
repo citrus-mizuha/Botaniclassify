@@ -1,6 +1,4 @@
 # Botani Classify
-## APG classify
-http://www.mobot.org/MOBOT/Research/APweb/
 ## Developers
 |Username|position|photos number|
 |---|---|---|
@@ -48,6 +46,10 @@ If you want to use any options. please look at [here](/memo/livecam-help.txt)
 - Android OS
 
 The Android version is scheduled to be released soon, but the iPhone version is not yet known.
+
+## Classify System
+### feature extractor
+We're making system based on VGG16.
 
 ## Special Thanks
 [kaho7090](https://github.com/kaho7090) Thank you very much!!
