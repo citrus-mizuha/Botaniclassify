@@ -14,6 +14,8 @@
 Please sent me to All kinds of plants picture (gynosperms, angiosperms) are welcome.
 - For [gymnosperms]()
 - For [angiosperms]()
+### License
+Please see the [license](/LICENSE).
 ### How to install
 ``` sh
 $ git clone https://github.com/citrus-soke/BotaniClassify
