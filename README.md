@@ -2,9 +2,9 @@
 ## Developers
 |Username|position|photos number|
 |---|---|---|
-|[citrus-mizuha](https://github.com/citrus-mizuha)|Administor|none|
+|[citrus-mizuha](https://github.com/citrus-mizuha)|PM|none|
 |[kaho7090](https://github.com/kaho7090)|main developer|none|
-|[]()|photo credit|none|
+|[citrus-soke](https://github.com/citrus-soke)|main developer|none|
 |[]()|photo credit|none|
 ## Information
 ### About
