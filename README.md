@@ -1,11 +1,11 @@
 # Botani Classify
 ## Developers
-|Username|position|photos number|
-|---|---|---|
-|[citrus-mizuha](https://github.com/citrus-mizuha)|Administor|none|
-|[kaho7090](https://github.com/kaho7090)|main developer|none|
-|[]()|photo credit|none|
-|[]()|photo credit|none|
+| Username                                          | position       | photos number |
+|---------------------------------------------------|----------------|---------------|
+| [citrus-mizuha](https://github.com/citrus-mizuha) | Administor     | none          |
+| [kaho7090](https://github.com/kaho7090)           | main developer | none          |
+| []()                                              | photo credit   | none          |
+| []()                                              | photo credit   | none          |
 ## Information
 ### About
 - This classification AI is created according to the APG classification system.
