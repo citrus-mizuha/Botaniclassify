@@ -14,6 +14,8 @@
 Please sent me to All kinds of plants picture (gynosperms, angiosperms) are welcome.
 - For [gymnosperms]()
 - For [angiosperms]()
+### License
+Please see the [license](/LICENSE).
 ### How to install
 ``` sh
 $ git clone https://github.com/citrus-soke/BotaniClassify
@@ -46,6 +48,10 @@ If you want to use any options. please look at [here](/memo/livecam-help.txt)
 - Android OS
 
 The Android version is scheduled to be released soon, but the iPhone version is not yet known.
+
+## Classify System
+### feature extractor
+We're making system based on VGG16.
 
 ## Special Thanks
 [kaho7090](https://github.com/kaho7090) Thank you very much!!
